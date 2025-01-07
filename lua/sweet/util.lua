@@ -1,7 +1,7 @@
 local util = {}
 
-util.bg = "#000000"
-util.fg = "#ffffff"
+util.bg = "#13131e"
+util.fg = "#b8c0d4"
 
 local function hexToRgb(hex_str)
   local hex = "[abcdef0-9][abcdef0-9]"
